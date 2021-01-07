@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">LowPolyDemo</string>
+
+    <string name="dialog_loading">Loading</string>
+
+    <string name="btn_add">Add</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_gradient">Gradient</string>
+
+</resources>
