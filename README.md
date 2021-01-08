@@ -1,3 +1,15 @@
-# LowPolyDemo
+#LowPolyDemo
+
 A small demo application for giving photos a low poly effect.
-Using https://github.com/abhriyaroy/RxLowpoly
+
+This application can process photos, can create gradients and save them.
+
+technologies used:
+- MVVM
+- LiveData
+- RxJava
+- etc 
+
+Some pics:
+
+![pic1] (https://raw.githubusercontent.com/thrashedbrain/LowPolyDemo/main/Screenshot1.png)
