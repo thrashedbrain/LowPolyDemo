@@ -12,4 +12,4 @@ technologies used:
 
 Some pics:
 
-![pic1] (https://raw.githubusercontent.com/thrashedbrain/LowPolyDemo/main/Screenshot1.png)
+![](https://raw.githubusercontent.com/thrashedbrain/LowPolyDemo/main/Screenshot1.png)
