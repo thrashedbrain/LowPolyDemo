@@ -13,3 +13,5 @@ technologies used:
 Some pics:
 
 ![](https://raw.githubusercontent.com/thrashedbrain/LowPolyDemo/main/Screenshot1.png)
+![](https://raw.githubusercontent.com/thrashedbrain/LowPolyDemo/main/Screenshot2.png)
+![](https://raw.githubusercontent.com/thrashedbrain/LowPolyDemo/main/Screenshot3.png)
